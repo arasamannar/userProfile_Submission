@@ -9,7 +9,6 @@ table,tbody,th,thead,td{
     color:rgb(10, 47, 26);
     background-color: aliceblue;
     border-collapse: collapse;
-    border-radius: 3rem;
 }
 h1,p{
     font-weight: 100;
